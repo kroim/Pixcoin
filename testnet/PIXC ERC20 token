@@ -1,0 +1,21 @@
+2_deploy.js
+===========
+
+   Replacing 'PIXCToken'
+   ---------------------
+   > transaction hash:    0xb6de83d8d0129d6338b47eb55de365b1c3ba420b3aee3937ea3b3d81eaab84b4
+   > Blocks: 2            Seconds: 18
+   > contract address:    0x03d3950cE5c7B2c9Cee6e8B40E4B36fD98C26cFA
+   > block number:        7727648
+   > block timestamp:     1587034136
+   > account:             0xc99dA7fC1c2c3BCd46B3469A13bAA373144fFF25
+   > balance:             0.9329837
+   > gas used:            1394126
+   > gas price:           20 gwei
+   > value sent:          0 ETH
+   > total cost:          0.02788252 ETH
+
+   Pausing for 2 confirmations...
+   ------------------------------
+
+72FFDEF883ABEB355D6EE7634AE82AAFDB8FFD7D590A3C5D928FE7F45BE269A8
